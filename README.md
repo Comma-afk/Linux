@@ -1,1 +1,1 @@
-# I will document my process of learning Linux on Github
+# I will document my process of learning Linux on github
